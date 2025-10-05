@@ -22,7 +22,7 @@ Machine learning model predicting credit card defaults (82% accuracy) using Scik
 ### [🔹 Stock Mitra – Lightweight Inventory App](https://github.com/coderved63/coderved63-Stock_Mitra-Stock-Management-App-Python-)
 Compact Python (Tkinter) application helping small businesses track inventory and generate automated dashboards.
 
-### [🔹 CampusBuzz – Campus Social Event Platform](https://github.com/coderved63/Campusbuzz-Campus-Event-Management)
+### [🔹 CampusBuzz – Campus Social Event Platform](https://github.com/coderved63/Campusbuzz-Campus-Event-Management_new)
 Full-stack event management web app built with Next.js, TypeScript, and MongoDB — includes real-time bookings, QR-coded tickets, and analytics dashboards.
 
 ### [🔹 Hash Vault – HackNuthon 6.0](https://github.com/coderved63/HackNuthon-Crypto-Wallet)
