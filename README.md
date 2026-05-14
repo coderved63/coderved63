@@ -8,9 +8,8 @@
 
 ## 🧠 About Me
 - 💻 I enjoy integrating **AI + Web** for impactful solutions.  
-- 🚀 Participated in national hackathons like **HackNuthon 6.0**, **Smart India Hackathon**, and **Google Gen AI Exchange**.  
-- 🔬 Experienced with **data-driven systems**, predictive modeling, and scalable web apps.  
-- 📈 CGPA: 8.92 / 10  
+- 🚀 Participated and won in several hackathons like **HackNuthon 6.0**, **HackNuMined 7.0**.**Smart India Hackathon**, and **AETRIX PDEU**.  
+- 📈 Current CGPA: 9.02 / 10  (Upto 5th Sem)
 
 ---
 
