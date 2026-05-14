@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 - 💻 I enjoy integrating **AI + Web** for impactful solutions.  
-- 🚀 Participated and won in several hackathons like **HackNuthon 6.0**, **HackNuMined 7.0**.**Smart India Hackathon**, and **AETRIX PDEU**.  
+- 🚀 Participated and won in several hackathons like **HackNuthon 6.0** , **HackNuMined 7.0**,**Smart India Hackathon**, and **AETRIX PDEU**.  
 - 📈 Current CGPA: 9.02 / 10  (Upto 5th Sem)
 
 ---
